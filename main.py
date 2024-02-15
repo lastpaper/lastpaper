@@ -22,3 +22,6 @@ async def on_message(message):
     await message.channel.send("Hello!")
 
 client.run("TOKEN")
+
+
+https://www.youtube.com/watch?v=SPTfmiYiuok
